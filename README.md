@@ -1,5 +1,5 @@
 # 👨‍💻 Sebastián Restrepo Rico
-## Ejecutivo Comercial | Backend Developer
+## Ingeniero Adminstrador | Backend Developer
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
